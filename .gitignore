@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+virtual_env/
+cryptowallet-58c08-firebase-adminsdk-njv87-3c9594e4db.json
